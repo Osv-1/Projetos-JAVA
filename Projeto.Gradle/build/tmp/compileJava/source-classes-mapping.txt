@@ -1,0 +1,76 @@
+Projeto/classes/cliente/ProgramaCliente.java
+ Projeto.classes.cliente.ProgramaCliente
+Projeto/tipagem/TipagemForte.java
+ Projeto.tipagem.TipagemForte
+Projeto/wrappers/Wrappers.java
+ Projeto.wrappers.Wrappers
+Projeto/classes/pessoa/PessoaFisica.java
+ Projeto.classes.pessoa.PessoaFisica
+Projeto/classes/cliente/Cliente.java
+ Projeto.classes.cliente.Cliente
+Projeto/classes/usuario/Programa.java
+ Projeto.classes.usuario.Programa
+Projeto/classes/pessoa/Pessoa.java
+ Projeto.classes.pessoa.Pessoa
+Projeto/classes/pessoa/ProgramaDoCliente.java
+ Projeto.classes.pessoa.ProgramaDoCliente
+Projeto/tipagem/Escopo.java
+ Projeto.tipagem.Escopo
+Projeto/tipagem/TipoInferido.java
+ Projeto.tipagem.TipoInferido
+Projeto/classes/pessoa/ProgramaPessoaFisica.java
+ Projeto.classes.pessoa.ProgramaPessoaFisica
+Projeto/classes/usuario/ProgramaSuperUsuario.java
+ Projeto.classes.usuario.ProgramaSuperUsuario
+Projeto/tipos/naoprimitivos/NaoPrimitivos.java
+ Projeto.tipos.naoprimitivos.NaoPrimitivos
+Projeto/classes/pessoa/ProgramaDoUsuario.java
+ Projeto.classes.pessoa.ProgramaDoUsuario
+Projeto/tipos/naoprimitivos/Unboxing.java
+ Projeto.tipos.naoprimitivos.Unboxing
+Projeto/classes/usuario/SuperUsuario.java
+ Projeto.classes.usuario.SuperUsuario
+Projeto/tipos/primitivos/Primitivos.java
+ Projeto.tipos.primitivos.Primitivos
+Projeto/tipos/primitivos/DefaultValues.java
+ Projeto.tipos.primitivos.Default
+ Projeto.tipos.primitivos.DefaultValues
+Projeto/tipagem/TipagemEstatica.java
+ Projeto.tipagem.TipagemEstatica
+Projeto/abstracts/Programa.java
+ Projeto.abstracts.Programa
+Projeto/abstracts/Quadrado.java
+ Projeto.abstracts.Quadrado
+Projeto/abstracts/FormaGeometrica.java
+ Projeto.abstracts.FormaGeometrica
+Projeto/statics/Cachorro.java
+ Projeto.statics.Cachorro
+Projeto/statics/Programa.java
+ Projeto.statics.Programa
+Projeto/finals/Gamer.java
+ Projeto.finals.Gamer
+Projeto/finals/HardcoreGamer.java
+ Projeto.finals.HardcoreGamer
+SRP/Problem/Produto.java
+ SRP.Problem.Produto
+Date/Datas.java
+ Date.Datas
+Projeto/finals/CasualGamer.java
+ Projeto.finals.CasualGamer
+SRP/Solution/OrdemDeCompra.java
+ SRP.Solution.OrdemDeCompra
+ SRP.Solution.OrdemDeCompra$OrdemDeCompraMail
+ SRP.Solution.OrdemDeCompra$OrdemDeCompraMail$OrdemDeCompraPrint
+ SRP.Solution.OrdemDeCompra$OrdemDeCompraRepository
+Projeto/finals/Programa.java
+ Projeto.finals.Programa
+SRP/Problem/OrdemDeCompra.java
+ SRP.Problem.OrdemDeCompra
+SRP/Solution/Produto.java
+ SRP.Solution.Produto
+Date/Milisegundos.java
+ Date.Milisegundos
+Date/DataFormatada.java
+ Date.DataFormatada
+Date/LocalData.java
+ Date.LocalData
