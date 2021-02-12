@@ -42,8 +42,6 @@ Sou um programador Java :computer:
 * [Contribuindo](#tada-contribuindo)
 * [Licencia](#closed_book-licencia)
 
-<h2 align="left"> 📥 Layout disponivel para download em: </h2>
-
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="./IMG-Readme/index_web.png" width="400px">
@@ -89,8 +87,8 @@ Dê uma ⭐️ se esse projeto te ajudou!
   
   
  <br/> :blush: &nbsp; Posso te ajudar em melhorias de processo e criação de novos Projetos.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript, onde venho estudando cada vez mais.
- <br/> 💬  &nbsp; Sobre mim: Uma pessoa curiosa sobre tecnologia e serviço em geral, onde toda aprendizado pode ser chavves para resoluções de problemas, apaixonado por jogos: 
+ <br/> :computer: &nbsp; Minha stack: Java, Python, Spring frameworks, onde venho estudando cada vez mais.
+ <br/> 💬  &nbsp; Sobre mim: Uma pessoa curiosa sobre tecnologia e serviço em geral, onde toda aprendizado pode ser chaves para resoluções de problemas, apaixonado por jogos e programação 
   <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Oswaldo Takeo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oswaldo-t-1a97a413a/)](https://www.linkedin.com/in/oswaldo-t-1a97a413a/)
 
 #
