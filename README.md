@@ -13,10 +13,10 @@ Sou um programador Java :computer:
   </h4>
   
   <h1 align="center">
-    <a href="https://spring.io/projects/spring-boot">🔗 Spring</a>
+    <a href="https://spring.io/projects/spring-boot">🔗 Ecossistema Spring</a>
   </h1>
 
-<p align="center">:rocket:🚀  Projeto feito para aprofundamento em Spring</p>
+<p align="center">:rocket:🚀  Projeto feito para aprofundamento em Spring boot </p>
 
 <p align="center">
    
@@ -64,7 +64,7 @@ Fique a vontade **para criar uma nova issue** com o respectivo titulo e descriç
 
 Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
 
-# :closed_book: Bancoob
+# :closed_book: Bancoob (API)
 
 Lançado em 2021 :closed_book: Bancoob
 
