@@ -19,12 +19,11 @@ Sou um programador Java :computer:
 <p align="center">:rocket:🚀  Projeto feito para aprofundamento em Spring</p>
 
 <p align="center">
-    ·
-    <a href="README.md">Português</a>
+   
  </p>
 
 <div align="center">
-  <sub>O Java spring. Construído com ❤︎ por
+  <sub>Construído com ❤︎ por
     <a href="https://github.com/Osv-1">Oswaldo Takeo</a> and
     <a href="https://github.com/Osv-1">
       contributors
