@@ -52,8 +52,8 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 # :rocket: Funcionalidades
 
-* Site para cadastro de professores.
-* App para conectar estudantes e professores.
+* Site para cadastro de clientes de um banco.
+
 
 
 # :bug: Problemas
@@ -64,9 +64,9 @@ Fique a vontade **para criar uma nova issue** com o respectivo titulo e descriç
 
 Confira a página de [contribuição](./CONTRIBUTING.md) para ver como começar uma discução e começar a contribuir.
 
-# :closed_book: Licencia
+# :closed_book: Bancoob
 
-Lançado em 2020 :closed_book: Licencia
+Lançado em 2021 :closed_book: Bancoob
 
 Feito com amor por [OswaldoTakeo](https://github.com/Osv-1) 🚀.
 Esse projeto esta sobre [MIT license](./LICENSE).
@@ -76,7 +76,7 @@ Dê uma ⭐️ se esse projeto te ajudou!
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com desafios em:<br/>
  <br/>
-  - Back-end usando Java. <br/> 
+  - Back-end usando Java e frameworks. <br/> 
   - Banco de dados conhecimento em SQL e NoSQL.
   
   
