@@ -41,11 +41,6 @@ Sou um programador Java :computer:
 * [Contribuindo](#tada-contribuindo)
 * [Licencia](#closed_book-licencia)
 
-### Web Screenshot
-<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./IMG-Readme/index_web.png" width="400px">
-   <img src="./IMG-Readme/web-list.png" width="400px">
-</div> 
 
 # :computer: Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
